@@ -8,7 +8,7 @@ As entry-level data scientists and analysts, it’s easy to feel overwhelmed whe
 
 In this tutorial, we will use UNESCO education data to examine literacy gaps between men and women aged 15 and above across the world.
 
-## Setting the Data 
+## Setting Up the Data 
 
 ### The Data
 
