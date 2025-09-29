@@ -144,13 +144,14 @@ We can now compute the gap of literacy rates (male - female) and add a new colum
 
 LiteracyBySex['Gap'] = LiteracyBySex['VALUE_male'] - LiteracyBySex['VALUE_female']
 ```
-| COUNTRY_ID | YEAR | VALUE_male | VALUE_female | QUALIFIER_male | QUALIFIER_female |    Gap    |
-|------------|------|------------|--------------|----------------|------------------|-----------|
-| ABW        | 2000 | 97.54      | 97.07        | NaN            | NaN              |   0.47    |
-| ABW        | 2010 | 96.94      | 96.72        | NaN            | NaN              |   0.22    |
-| AFG        | 1979 | 30.31      | 4.99         | NaN            | NaN              |  25.32    |
-| AFG        | 2011 | 45.42      | 17.02        | NaN            | NaN              |  28.40    |
-| AFG        | 2015 | 50.21      | 17.09        | UIS_EST        | UIS_EST          |  33.12    |
+| COUNTRY_ID | YEAR | VALUE_male | VALUE_female | QUALIFIER_male | QUALIFIER_female | Gap |
+|------------|------|------------|--------------|----------------|------------------|-----|
+| ABW        | 2000 | 97.54      | 97.07        | NaN            | NaN              | 0.47 |
+| ABW        | 2010 | 96.94      | 96.72        | NaN            | NaN              | 0.22 |
+| AFG        | 1979 | 30.31      | 4.99         | NaN            | NaN              | 25.32 |
+| AFG        | 2011 | 45.42      | 17.02        | NaN            | NaN              | 28.40 |
+| AFG        | 2015 | 50.21      | 17.09        | UIS_EST        | UIS_EST          | 33.12 |
+
 
 **Note: For the purpose of this tutorial don't worry about the NaN values, we have the columns we need to plot the data at this point.
 
