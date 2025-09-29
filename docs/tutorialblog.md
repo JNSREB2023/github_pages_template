@@ -1,6 +1,13 @@
 # Tutorial: Plotting Tutorial Using UNESCO Education Statistics
 
+[Setting Up the Data](#setting-up-the-data)
+
+[Plotting](#plotting)
+
+[Wrapping it Up](#wrapping-it-up)
+
 ## Introduction
+
 
 This tutorial will walk you through the steps of loading the UNESCO dataset, subsetting the pre-cleaned data, using Pandas to create and manipulate a DataFrame, and generating plots to visualize the data.
 
